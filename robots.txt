@@ -1,0 +1,8 @@
+# robots.txt — Cali School System
+# Waxaan u ogolaysiinaynaa Google iyo dhammaan search engines in ay bogga raadiyaan
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://cali-school-system.netlify.app/sitemap.xml
